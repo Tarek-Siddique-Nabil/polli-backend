@@ -1,4 +1,4 @@
-const Data = require("../models/data.model");
+const Data = require("../Models/data.model");
 
 const dataController = {
   async getData(req, res, next) {
